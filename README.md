@@ -7,3 +7,4 @@
 5. [Validating a TCP Packet](validate-tcp/)
 6. [Computing and Finding Subnets](ip/)
 7. [Dijkstra's Algorithm](dijkstra/)
+8. [Select](select/)
